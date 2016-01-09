@@ -1,9 +1,9 @@
-threepio==0.2.0
+threepio>=0.2.0
 rtwo>=0.2.0
 
-python-glanceclient==0.13.1
-python-keystoneclient==0.9.0
-python-novaclient==2.18.1
+python-glanceclient>=0.13.1
+python-keystoneclient>=0.9.0
+python-novaclient>=2.18.1
 
 boto
 
